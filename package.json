@@ -1,5 +1,5 @@
 {
-  "name": "@ndigitals/strapi-plugin-sso-azure-ad-basic",
+  "name": "strapi-plugin-sso-azure-ad-basic",
   "version": "1.1.2",
   "description": "Basic plugin for testing sso using azure active directory",
   "keywords": [
@@ -24,7 +24,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git@github.com:ndigitals/strapi-plugin-sso-azure-ad-basic.git"
+    "url": "git@github.com:luispiresgympass/strapi-plugin-sso-azure-ad-basic.git"
   },
   "bugs": {
     "url": "https://github.com/ndigitals/strapi-plugin-sso-azure-ad-basic/issues"
